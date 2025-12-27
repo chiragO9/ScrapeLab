@@ -12,7 +12,7 @@ A Python web scraper that extracts book information from [books.toscrape.com](ht
 
 ## Technologies Used
 
-- **Python 3.x**
+- **Python 3.14
 - **BeautifulSoup4** - HTML parsing and web scraping
 - **Requests** - HTTP library for making web requests
 - **lxml** - XML and HTML parser
