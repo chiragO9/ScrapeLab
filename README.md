@@ -1,21 +1,22 @@
 # 📚 Books Scraper
 
-A Python web scraper that extracts book information from [books.toscrape.com](https://books.toscrape.com/) including titles, prices, and star ratings.
+A Python web scraper that extracts book information from [books.toscrape.com](https://books.toscrape.com/) including titles, prices, star ratings and book categories.
 
 ## Features
 
-- Extracts book titles from the website
-- Retrieves pricing information for each book
-- Collects star ratings (One to Five stars)
-- Displays total count of books found
-- Clean formatted output with f-strings
+- Extracts book titles from the website.
+- Retrieves pricing information for each book.
+- Collects star ratings (One to Five stars).
+- Displays total count of books found.
+- Lists all types of category for books.
+- Clean formatted output with f-strings.
 
 ## Technologies Used
 
-- **Python 3.14
-- **BeautifulSoup4** - HTML parsing and web scraping
-- **Requests** - HTTP library for making web requests
-- **lxml** - XML and HTML parser
+- **Python 3.14**
+- **BeautifulSoup4** - HTML parsing and web scraping.
+- **Requests** - HTTP library for making web requests.
+- **lxml** - XML and HTML parser.
 
 ## Prerequisites
 
